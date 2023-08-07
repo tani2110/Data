@@ -109,7 +109,6 @@ export default function App() {
                 value={udesignation}
                 onChange={(e) => setUpdDesignation(e.target.value)}
               ></input>
-              console.log("hi");
             </Form.Field>
             <Form.Field>
               <label>Salary</label>
